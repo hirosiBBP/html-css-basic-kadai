@@ -9,7 +9,7 @@ body {
 }
 
 h1 {
-  font-size: 40px;
+  font-size: 2rem;
   text-align: center;
   letter-spacing: 1.2em;
   text-shadow: 10px 10px 5px gray;
@@ -22,7 +22,7 @@ h1 {
 }
 
 .blue {
-  color: blue;
+  color: skyblue;
 }
 
 .pink {
@@ -33,6 +33,10 @@ h2{
   text-align: center;
 }
 
-#basic {
+#basic p {
   font-weight: bold;
+}
+
+html {
+  font-size: 20px; 
 }
