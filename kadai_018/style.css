@@ -9,10 +9,8 @@
 
  p {
  background-color: #ffd9df;
- display: inline;
- padding-left: 50px;
- padding-right: 50px;
- 
+ display: inline-block;
+ width: 20%;
 }
 
 #middle {
